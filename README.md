@@ -1,2 +1,2 @@
 # HackerNewsScrape
-Create newsletter from Hacker News scraping
+Morning newsletter featuring the top hits from Hacker News.
