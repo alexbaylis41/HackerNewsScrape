@@ -6,7 +6,7 @@ This project originated from the python developer course by 'Zero to Mastery' (h
 
 I went a litle further and added a few extra feautures to finalise this into a useful daily morning newsletter!
 
-Summary of what the code does:
+Summary:
 
 1. Using beautiful soup, scrape the first 3 pages of hacker news
 2. Select the top stories (those with over 100 upvotes)
